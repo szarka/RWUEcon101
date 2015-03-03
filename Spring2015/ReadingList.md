@@ -23,6 +23,11 @@ Required Readings:
 * Mankiw, Ch. 26 Saving, Investment, and the Financial System
 * Mankiw, Ch. 27-1 Present Value
 
+Suggested Readings:
+* "[Is There an Answer to Malthus?](http://www.amazon.com/Firing-William-Buckley-Answer-Malthus/dp/B007Q4SXY8/)" *Firing Line*. October 15, 1981.
+* "[Simon–Ehrlich wager](https://en.wikipedia.org/wiki/Simon%E2%80%93Ehrlich_wager)." *Wikipedia*.
+* Rosling, "[The best stats you've ever seen](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)." *TED*. February 2006.
+
 
 ## Money and Prices in the Long Run
 
