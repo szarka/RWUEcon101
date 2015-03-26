@@ -35,7 +35,7 @@ Suggested Readings:
   * "[Bad Bank](http://www.thisamericanlife.org/radio-archives/episode/375/bad-bank)." *This American Life*. February 27, 2009.
   * "[The Watchmen](http://www.thisamericanlife.org/radio-archives/episode/382/the-watchmen)." *This American Life*. June 5, 2009.
   * "[Return to the Giant Pool of Money](http://www.thisamericanlife.org/radio-archives/episode/390/return-to-the-giant-pool-of-money)." *This American Life*. September 25, 2009.
-* "[Toxie](http://www.thisamericanlife.org/radio-archives/episode/418/toxie)." *This American Life*. November 5, 2010.
+  * "[Toxie](http://www.thisamericanlife.org/radio-archives/episode/418/toxie)." *This American Life*. November 5, 2010.
 
 
 ## Money and Prices in the Long Run
